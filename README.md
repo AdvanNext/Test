@@ -1,30 +1,31 @@
 # Tetris Game (Android Kotlin)
 
-This is a classic Tetris game developed for Android using Kotlin programming language. Tetris is a popular puzzle game where players manipulate falling blocks called "tetriminos" to create complete horizontal lines. The objective is to clear as many lines as possible and achieve a high score.
+Это классическая игра в Тетрис, разработанная для Android с использованием языка программирования Kotlin. Тетрис - популярная игра-головоломка, в которой игроки манипулируют падающими блоками, называемыми "тетримино", для создания полных горизонтальных линий. Цель состоит в том, чтобы очистить как можно больше линий и набрать высокий балл.
 
-## Gameplay
+## Игровой процесс
 
 ![tetris](https://github.com/d-lehel/tetris-android-game/assets/75861915/5455ad28-7ad8-42cb-917e-897e7e9fb111)
 
-Check out the gameplay in action! The GIF above showcases gameplay of the Tetris game on Android. 
+Ознакомьтесь с игровым процессом в действии! Приведенный выше GIF демонстрирует игровой процесс игры Tetris на Android.
 
-## Features
+## Особенности
 
-- Classic Tetris mechanics.
-- Touch-based controls.
-- Various levels of difficulty.
-- Score tracking
-- Ghost block shows where the active tetrimino will land.
-- The next three upcoming tetriminos are displayed.
+- Классическая механика тетриса.
+- Сенсорное управление.
+- Различные уровни сложности.
+- Отслеживание результатов
+- Призрачный блок показывает, где приземлится активный тетримино.
+- Отображаются следующие три предстоящих тетримино.
 
-## Technologies Used
 
-- Android SDK: The game is built using Android SDK, which provides the necessary tools and libraries for Android app development.
-- Kotlin: The game logic and user interface are implemented using Kotlin, a modern programming language for Android development.
-- Android Studio: The project is developed and managed in Android Studio, a powerful integrated development environment (IDE) for Android app development.
+## Используемые технологии
 
-## How to Play
+- Android SDK: Игра создана с использованием Android SDK, который предоставляет необходимые инструменты и библиотеки для разработки приложений для Android.
+- Kotlin: Логика игры и пользовательский интерфейс реализованы с использованием Kotlin, современного языка программирования для разработки Android.
+- Android Studio: Проект разрабатывается и управляется в Android Studio, мощной интегрированной среде разработки (IDE) для разработки приложений для Android.
 
-Download from here and install the game on your Android device.
+## Как играть
+
+Скачайте отсюда и установите игру на свое Android-устройство.
 - https://github.com/d-lehel/tetris-android-game/blob/main/playable_tetris_V3.apk
 
